@@ -5,7 +5,7 @@ export default class User extends React.Component{
     render() {
         return (
             <div className='container'>
-                <h3>Registered Users List</h3>
+                <h1>Registered Users List</h1>
 
                 <table className="table">
                     <thead className="thead-dark">
